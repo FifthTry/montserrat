@@ -19,7 +19,7 @@ the SIL Open Font License.
 
 
 
-Designers: Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral,
+Designers: [Julieta Ulanovsky](https://github.com/JulietaUla/Montserrat), Sol Matas, Juan Pablo del Peral,
 Jacques Le Bailly
 
 ## How To Use This Font In Your fastn Package:
