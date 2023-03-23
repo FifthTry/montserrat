@@ -1,4 +1,4 @@
-# Montserrat : FPM Font Package
+# Montserrat : fastn Font Package
 
 This repository contains a [fpm font package](https://fpm.dev/featured/fonts/) containing [Google Font: 
 Montserrat]https://fonts.google.com/specimen/Montserrat/about?query=Montserrat).
