@@ -1,51 +1,160 @@
--- import: <user_name>.github.io/<repo_name>/assets
+-- import: fifthtry.github.io/package-doc/doc as pd
+-- import: fifthtry.github.io/package-doc/code-block as cb
+-- import: fifthtry.github.io/package-doc/typography as tf
+-- import: fastn
+-- import: fifthtry.github.io/montserrat/assets as montserrat-assets
 
 
 
--- ds.page: Welcome to your [FASTN site](https://fastn.io/)
+-- ftd.type montserrat-demo:
+line-height.px: 36
+size.px: 22
+letter-spacing.px: 0
+font-family: $montserrat-assets.fonts.Montserrat
+weight: 400
+
+
+-- ftd.type montserrat-demo-heading:
+line-height.px: 56
+size.px: 48
+letter-spacing.px: 0
+font-family: $montserrat-assets.fonts.Montserrat
+weight: 400
+
+-- ftd.responsive-type small-heading:
+desktop: $montserrat-demo
+mobile: $montserrat-demo
+
+-- ftd.responsive-type large-heading:
+desktop: $montserrat-demo-heading
+mobile: $montserrat-demo-heading
+
 
 -- ftd.column:
-align-self: center
+width: fill-container
+padding-horizontal.px: 50
+padding-horizontal.px if { ftd.device == "mobile" }: 20
+background.solid: $inherited.colors.background.base
+;;id: parent
 
--- chat.message-left: Yo! I am Amit Upadhyay, CEO of FifthTry, welcome to the new world of FTD.
 
--- ds.markdown: 
+-- pd.package: montserrat - fastn font
+name: fifthtry.github.io/montserrat
 
-You reached the right place, and from here let me assure you, your FTD journey is going superfast. 🙂
+This component consist of Google montserrat font with all it's styles from Thin-100 to Black-900 Italic.
 
--- end: chat.message-left
 
--- chat.message-right:  😊 Liking this chat component?
+-- pd.component: montserrat - fastn font
+name: https://github.com/FifthTry/montserrat
 
--- ds.markdown:
+This component consist of Google montserrat font with all it's styles from Thin-100 to Black-900 Italic.
 
-[Click here to learn more](https://fifthtry.github.io/bling/chat/)
-👍
 
--- end: chat.message-right
 
--- end: ftd.column
+-- tf.h3: How to use
 
--- ds.h1: How to use?
+Include fifthtry.github.io/montserrat package into FASTN.ftd file
 
-It's very simple like making a sandwich. Create new `.ftd` file and just say:
-
--- ds.code: `-- ds.page` 
+-- cb.code:
 lang: ftd
 
-\-- ds.page: Your page title goes here
+\-- fastn.dependency: fifthtry.github.io/montserrat as montserrat
 
-Your page content goes here.
-
-
--- ds.h1: Need sidebar at right side of page?
-
-Here it is, [use this document](https://fifthtry.github.io/doc-site/docs/right-sidebar/).
+\-- fastn.auto-import: montserrat
 
 
--- ds.h1: 👀 Learn FTD and become a pro?
+-- tf.markdown:
 
-You are one click away, just check [our documentation](https://fastn.dev/) and 
-dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+Inside your .ftd file to add montserrat dependency and create custom font as given 
+in below code:
 
--- end: ds.page
+-- cb.code:
+lang: ftd
+
+\-- import: fifthtry.github.io/montserrat/assets as montserrat-assets
+\-- import: fastn
+
+\-- How to: define a custom font:-
+
+\-- ftd.type montserrat-desktop:
+size.px: 40
+weight: 900
+font-family: $montserrat-assets.fonts.Montserrat
+
+
+\-- ftd.type montserrat-mobile:
+size.px: 40
+weight: 900
+font-family: $montserrat-assets.fonts.Montserrat
+
+
+\-- ftd.responsive-type montserrat:
+desktop: $montserrat-desktop
+mobile: $montserrat-mobile
+
+
+\-- How to: invoke a custom font:-
+
+\-- ftd.text: Todos os seres humanos nascem livres e iguais em dignidade.  
+role: $montserrat
+color: $inherited.colors.text-strong
+margin-bottom.px: 24
+
+
+
+
+-- tf.h2: `montserrat` regular 18px:
+
+-- ftd.text: The quick brown fox jumps over the lazy dog
+role: $small-heading
+color: $inherited.colors.text-strong
+margin-bottom.px: 24
+
+-- tf.h2: `montserrat` regular strike through 18px:
+
+-- ftd.text: The quick brown fox jumps over the lazy dog
+role: $small-heading
+color: $inherited.colors.text-strong
+margin-bottom.px: 24
+
+
+-- tf.h2: `montserrat` regular underline 18px:
+
+-- ftd.text: The quick brown fox jumps over the lazy dog
+role: $small-heading
+color: $inherited.colors.text-strong
+margin-bottom.px: 24
+
+
+-- tf.h2: `montserrat` regular italic 18px:
+
+-- ftd.text: The quick brown fox jumps over the lazy dog
+role: $small-heading
+color: $inherited.colors.text-strong
+margin-bottom.px: 24
+
+
+-- tf.h2: `montserrat` bold 18px:
+
+-- ftd.text: The quick brown fox jumps over the lazy dog
+role: $small-heading
+color: $inherited.colors.text-strong
+margin-bottom.px: 24
+
+
+-- tf.h2: `montserrat` bold italic 18px:
+
+-- ftd.text: The quick brown fox jumps over the lazy dog
+role: $small-heading
+color: $inherited.colors.text-strong
+margin-bottom.px: 24
+
+
+-- tf.h2: `montserrat` heading regular 48px:
+
+-- ftd.text: The quick brown fox jumps over the lazy dog
+role: $large-heading
+color: $inherited.colors.text-strong
+margin-bottom.px: 40
+
+-- end: ftd.column
