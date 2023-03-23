@@ -1,4 +1,4 @@
-# Raleway : FPM Font Package
+# Montserrat : FPM Font Package
 
 This repository contains a [fpm font package](https://fpm.dev/featured/fonts/) containing [Google Font: 
 Montserrat]https://fonts.google.com/specimen/Montserrat/about?query=Montserrat).
@@ -22,7 +22,7 @@ the SIL Open Font License.
 Designers: Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral,
 Jacques Le Bailly
 
-## How To Use This Font In Your FPM Package:
+## How To Use This Font In Your fastn Package:
 
 [Read the docs and demo](https://fifthtry.github.io/montserrat).
 
@@ -58,7 +58,7 @@ server](https://discord.gg/bucrdvptYd).
 
 ## License
 
-Since Raleway  Font is under [OFL](https://fonts.google.com/specimen/Montserrat/about?query=Montserrat), this FASTN wrapper is also
+Since Montserrat  Font is under [OFL](https://fonts.google.com/specimen/Montserrat/about?query=Montserrat), this FASTN wrapper is also
 under [OFL](LICENSE).
 
 
