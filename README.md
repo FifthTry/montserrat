@@ -1,7 +1,7 @@
 # Montserrat : fastn Font Package
 
-This repository contains a [fpm font package](https://fpm.dev/featured/fonts/) containing [Google Font: 
-Montserrat]https://fonts.google.com/specimen/Montserrat/about?query=Montserrat).
+This repository contains a [fpm font package](https://fpm.dev/featured/fonts/) containing 
+[Google Font:Montserrat](https://fonts.google.com/specimen/Montserrat/about?query=Montserrat).
 
 The old posters and signs in the traditional Montserrat 
 neighborhood of Buenos Aires inspired Julieta Ulanovsky 
