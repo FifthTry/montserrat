@@ -1,0 +1,471 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "6E8958DC340866F4381988A3E7F6BB8386ABC9D167596ADA76A7E02722799866",
+      "size": 22696
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "2E618F00B07A40B075014791FE1FAA58DEC685E466CCF86CFB083CD0D8859B4D",
+      "size": 1949
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "8C790358FE5988DAA8C13EA128BA9BC332BE17800F1A11E3F5A05D5EAAE6F373",
+      "size": 3585
+    },
+    "static/Montserrat-100-italic-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-100-italic-cyrillic-ext.woff2",
+      "checksum": "15D402E48D0A4CC942B3C3451809FA55F59056ACE3A4730DE0BD9771CBDADCC5",
+      "size": 23600
+    },
+    "static/Montserrat-100-italic-cyrillic.woff2": {
+      "name": "static/Montserrat-100-italic-cyrillic.woff2",
+      "checksum": "8A7E993E31129B9CC38059C9959B2D99472F42336E241588649D627A96DB6108",
+      "size": 22024
+    },
+    "static/Montserrat-100-italic-latin-ext.woff2": {
+      "name": "static/Montserrat-100-italic-latin-ext.woff2",
+      "checksum": "9DF5F24278928433DF82AF2998CFB1054B856839BB9FF9A9D845F954D8E10138",
+      "size": 25904
+    },
+    "static/Montserrat-100-italic-latin.woff2": {
+      "name": "static/Montserrat-100-italic-latin.woff2",
+      "checksum": "33BEFDBBB24930584F5AC94EA3117ADCD56518F20AB1619D05DE83FFD1821D38",
+      "size": 31760
+    },
+    "static/Montserrat-100-italic-vietnamese.woff2": {
+      "name": "static/Montserrat-100-italic-vietnamese.woff2",
+      "checksum": "A48AFDB0DDE7CF596549DF3F194AD07822B6750B35595EF47FD6F353D4BD6677",
+      "size": 7736
+    },
+    "static/Montserrat-100-normal-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-100-normal-cyrillic-ext.woff2",
+      "checksum": "3FEF59469D688A1A0AB10FE37CFD274D272197D3D00E48A9422C57ADF7BADDD2",
+      "size": 23516
+    },
+    "static/Montserrat-100-normal-cyrillic.woff2": {
+      "name": "static/Montserrat-100-normal-cyrillic.woff2",
+      "checksum": "A8447CDEC51E85D9E93971A0D4A53BCF6085D70BF1D201662837D2FB953422C7",
+      "size": 21276
+    },
+    "static/Montserrat-100-normal-latin-ext.woff2": {
+      "name": "static/Montserrat-100-normal-latin-ext.woff2",
+      "checksum": "CFFE139366B3882387DDDBD10D59E7D9AA29345793FDBF51DDDE809CA6A0BEC2",
+      "size": 25036
+    },
+    "static/Montserrat-100-normal-latin.woff2": {
+      "name": "static/Montserrat-100-normal-latin.woff2",
+      "checksum": "AE919A7C9F25F0FD97FC18E398AE8E453FCAAE487E4A4CB4F896E7FECDE4A780",
+      "size": 30928
+    },
+    "static/Montserrat-100-normal-vietnamese.woff2": {
+      "name": "static/Montserrat-100-normal-vietnamese.woff2",
+      "checksum": "56544B89DE11E26AE80A5212B3387D693B1BFBAF68312E3CCC0F0B7A00382F5D",
+      "size": 7764
+    },
+    "static/Montserrat-200-italic-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-200-italic-cyrillic-ext.woff2",
+      "checksum": "15D402E48D0A4CC942B3C3451809FA55F59056ACE3A4730DE0BD9771CBDADCC5",
+      "size": 23600
+    },
+    "static/Montserrat-200-italic-cyrillic.woff2": {
+      "name": "static/Montserrat-200-italic-cyrillic.woff2",
+      "checksum": "8A7E993E31129B9CC38059C9959B2D99472F42336E241588649D627A96DB6108",
+      "size": 22024
+    },
+    "static/Montserrat-200-italic-latin-ext.woff2": {
+      "name": "static/Montserrat-200-italic-latin-ext.woff2",
+      "checksum": "9DF5F24278928433DF82AF2998CFB1054B856839BB9FF9A9D845F954D8E10138",
+      "size": 25904
+    },
+    "static/Montserrat-200-italic-latin.woff2": {
+      "name": "static/Montserrat-200-italic-latin.woff2",
+      "checksum": "33BEFDBBB24930584F5AC94EA3117ADCD56518F20AB1619D05DE83FFD1821D38",
+      "size": 31760
+    },
+    "static/Montserrat-200-italic-vietnamese.woff2": {
+      "name": "static/Montserrat-200-italic-vietnamese.woff2",
+      "checksum": "A48AFDB0DDE7CF596549DF3F194AD07822B6750B35595EF47FD6F353D4BD6677",
+      "size": 7736
+    },
+    "static/Montserrat-200-normal-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-200-normal-cyrillic-ext.woff2",
+      "checksum": "3FEF59469D688A1A0AB10FE37CFD274D272197D3D00E48A9422C57ADF7BADDD2",
+      "size": 23516
+    },
+    "static/Montserrat-200-normal-cyrillic.woff2": {
+      "name": "static/Montserrat-200-normal-cyrillic.woff2",
+      "checksum": "A8447CDEC51E85D9E93971A0D4A53BCF6085D70BF1D201662837D2FB953422C7",
+      "size": 21276
+    },
+    "static/Montserrat-200-normal-latin-ext.woff2": {
+      "name": "static/Montserrat-200-normal-latin-ext.woff2",
+      "checksum": "CFFE139366B3882387DDDBD10D59E7D9AA29345793FDBF51DDDE809CA6A0BEC2",
+      "size": 25036
+    },
+    "static/Montserrat-200-normal-latin.woff2": {
+      "name": "static/Montserrat-200-normal-latin.woff2",
+      "checksum": "AE919A7C9F25F0FD97FC18E398AE8E453FCAAE487E4A4CB4F896E7FECDE4A780",
+      "size": 30928
+    },
+    "static/Montserrat-200-normal-vietnamese.woff2": {
+      "name": "static/Montserrat-200-normal-vietnamese.woff2",
+      "checksum": "56544B89DE11E26AE80A5212B3387D693B1BFBAF68312E3CCC0F0B7A00382F5D",
+      "size": 7764
+    },
+    "static/Montserrat-300-italic-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-300-italic-cyrillic-ext.woff2",
+      "checksum": "15D402E48D0A4CC942B3C3451809FA55F59056ACE3A4730DE0BD9771CBDADCC5",
+      "size": 23600
+    },
+    "static/Montserrat-300-italic-cyrillic.woff2": {
+      "name": "static/Montserrat-300-italic-cyrillic.woff2",
+      "checksum": "8A7E993E31129B9CC38059C9959B2D99472F42336E241588649D627A96DB6108",
+      "size": 22024
+    },
+    "static/Montserrat-300-italic-latin-ext.woff2": {
+      "name": "static/Montserrat-300-italic-latin-ext.woff2",
+      "checksum": "9DF5F24278928433DF82AF2998CFB1054B856839BB9FF9A9D845F954D8E10138",
+      "size": 25904
+    },
+    "static/Montserrat-300-italic-latin.woff2": {
+      "name": "static/Montserrat-300-italic-latin.woff2",
+      "checksum": "33BEFDBBB24930584F5AC94EA3117ADCD56518F20AB1619D05DE83FFD1821D38",
+      "size": 31760
+    },
+    "static/Montserrat-300-italic-vietnamese.woff2": {
+      "name": "static/Montserrat-300-italic-vietnamese.woff2",
+      "checksum": "A48AFDB0DDE7CF596549DF3F194AD07822B6750B35595EF47FD6F353D4BD6677",
+      "size": 7736
+    },
+    "static/Montserrat-300-normal-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-300-normal-cyrillic-ext.woff2",
+      "checksum": "3FEF59469D688A1A0AB10FE37CFD274D272197D3D00E48A9422C57ADF7BADDD2",
+      "size": 23516
+    },
+    "static/Montserrat-300-normal-cyrillic.woff2": {
+      "name": "static/Montserrat-300-normal-cyrillic.woff2",
+      "checksum": "A8447CDEC51E85D9E93971A0D4A53BCF6085D70BF1D201662837D2FB953422C7",
+      "size": 21276
+    },
+    "static/Montserrat-300-normal-latin-ext.woff2": {
+      "name": "static/Montserrat-300-normal-latin-ext.woff2",
+      "checksum": "CFFE139366B3882387DDDBD10D59E7D9AA29345793FDBF51DDDE809CA6A0BEC2",
+      "size": 25036
+    },
+    "static/Montserrat-300-normal-latin.woff2": {
+      "name": "static/Montserrat-300-normal-latin.woff2",
+      "checksum": "AE919A7C9F25F0FD97FC18E398AE8E453FCAAE487E4A4CB4F896E7FECDE4A780",
+      "size": 30928
+    },
+    "static/Montserrat-300-normal-vietnamese.woff2": {
+      "name": "static/Montserrat-300-normal-vietnamese.woff2",
+      "checksum": "56544B89DE11E26AE80A5212B3387D693B1BFBAF68312E3CCC0F0B7A00382F5D",
+      "size": 7764
+    },
+    "static/Montserrat-400-italic-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-400-italic-cyrillic-ext.woff2",
+      "checksum": "15D402E48D0A4CC942B3C3451809FA55F59056ACE3A4730DE0BD9771CBDADCC5",
+      "size": 23600
+    },
+    "static/Montserrat-400-italic-cyrillic.woff2": {
+      "name": "static/Montserrat-400-italic-cyrillic.woff2",
+      "checksum": "8A7E993E31129B9CC38059C9959B2D99472F42336E241588649D627A96DB6108",
+      "size": 22024
+    },
+    "static/Montserrat-400-italic-latin-ext.woff2": {
+      "name": "static/Montserrat-400-italic-latin-ext.woff2",
+      "checksum": "9DF5F24278928433DF82AF2998CFB1054B856839BB9FF9A9D845F954D8E10138",
+      "size": 25904
+    },
+    "static/Montserrat-400-italic-latin.woff2": {
+      "name": "static/Montserrat-400-italic-latin.woff2",
+      "checksum": "33BEFDBBB24930584F5AC94EA3117ADCD56518F20AB1619D05DE83FFD1821D38",
+      "size": 31760
+    },
+    "static/Montserrat-400-italic-vietnamese.woff2": {
+      "name": "static/Montserrat-400-italic-vietnamese.woff2",
+      "checksum": "A48AFDB0DDE7CF596549DF3F194AD07822B6750B35595EF47FD6F353D4BD6677",
+      "size": 7736
+    },
+    "static/Montserrat-400-normal-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-400-normal-cyrillic-ext.woff2",
+      "checksum": "3FEF59469D688A1A0AB10FE37CFD274D272197D3D00E48A9422C57ADF7BADDD2",
+      "size": 23516
+    },
+    "static/Montserrat-400-normal-cyrillic.woff2": {
+      "name": "static/Montserrat-400-normal-cyrillic.woff2",
+      "checksum": "A8447CDEC51E85D9E93971A0D4A53BCF6085D70BF1D201662837D2FB953422C7",
+      "size": 21276
+    },
+    "static/Montserrat-400-normal-latin-ext.woff2": {
+      "name": "static/Montserrat-400-normal-latin-ext.woff2",
+      "checksum": "CFFE139366B3882387DDDBD10D59E7D9AA29345793FDBF51DDDE809CA6A0BEC2",
+      "size": 25036
+    },
+    "static/Montserrat-400-normal-latin.woff2": {
+      "name": "static/Montserrat-400-normal-latin.woff2",
+      "checksum": "AE919A7C9F25F0FD97FC18E398AE8E453FCAAE487E4A4CB4F896E7FECDE4A780",
+      "size": 30928
+    },
+    "static/Montserrat-400-normal-vietnamese.woff2": {
+      "name": "static/Montserrat-400-normal-vietnamese.woff2",
+      "checksum": "56544B89DE11E26AE80A5212B3387D693B1BFBAF68312E3CCC0F0B7A00382F5D",
+      "size": 7764
+    },
+    "static/Montserrat-500-italic-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-500-italic-cyrillic-ext.woff2",
+      "checksum": "15D402E48D0A4CC942B3C3451809FA55F59056ACE3A4730DE0BD9771CBDADCC5",
+      "size": 23600
+    },
+    "static/Montserrat-500-italic-cyrillic.woff2": {
+      "name": "static/Montserrat-500-italic-cyrillic.woff2",
+      "checksum": "8A7E993E31129B9CC38059C9959B2D99472F42336E241588649D627A96DB6108",
+      "size": 22024
+    },
+    "static/Montserrat-500-italic-latin-ext.woff2": {
+      "name": "static/Montserrat-500-italic-latin-ext.woff2",
+      "checksum": "9DF5F24278928433DF82AF2998CFB1054B856839BB9FF9A9D845F954D8E10138",
+      "size": 25904
+    },
+    "static/Montserrat-500-italic-latin.woff2": {
+      "name": "static/Montserrat-500-italic-latin.woff2",
+      "checksum": "33BEFDBBB24930584F5AC94EA3117ADCD56518F20AB1619D05DE83FFD1821D38",
+      "size": 31760
+    },
+    "static/Montserrat-500-italic-vietnamese.woff2": {
+      "name": "static/Montserrat-500-italic-vietnamese.woff2",
+      "checksum": "A48AFDB0DDE7CF596549DF3F194AD07822B6750B35595EF47FD6F353D4BD6677",
+      "size": 7736
+    },
+    "static/Montserrat-500-normal-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-500-normal-cyrillic-ext.woff2",
+      "checksum": "3FEF59469D688A1A0AB10FE37CFD274D272197D3D00E48A9422C57ADF7BADDD2",
+      "size": 23516
+    },
+    "static/Montserrat-500-normal-cyrillic.woff2": {
+      "name": "static/Montserrat-500-normal-cyrillic.woff2",
+      "checksum": "A8447CDEC51E85D9E93971A0D4A53BCF6085D70BF1D201662837D2FB953422C7",
+      "size": 21276
+    },
+    "static/Montserrat-500-normal-latin-ext.woff2": {
+      "name": "static/Montserrat-500-normal-latin-ext.woff2",
+      "checksum": "CFFE139366B3882387DDDBD10D59E7D9AA29345793FDBF51DDDE809CA6A0BEC2",
+      "size": 25036
+    },
+    "static/Montserrat-500-normal-latin.woff2": {
+      "name": "static/Montserrat-500-normal-latin.woff2",
+      "checksum": "AE919A7C9F25F0FD97FC18E398AE8E453FCAAE487E4A4CB4F896E7FECDE4A780",
+      "size": 30928
+    },
+    "static/Montserrat-500-normal-vietnamese.woff2": {
+      "name": "static/Montserrat-500-normal-vietnamese.woff2",
+      "checksum": "56544B89DE11E26AE80A5212B3387D693B1BFBAF68312E3CCC0F0B7A00382F5D",
+      "size": 7764
+    },
+    "static/Montserrat-600-italic-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-600-italic-cyrillic-ext.woff2",
+      "checksum": "15D402E48D0A4CC942B3C3451809FA55F59056ACE3A4730DE0BD9771CBDADCC5",
+      "size": 23600
+    },
+    "static/Montserrat-600-italic-cyrillic.woff2": {
+      "name": "static/Montserrat-600-italic-cyrillic.woff2",
+      "checksum": "8A7E993E31129B9CC38059C9959B2D99472F42336E241588649D627A96DB6108",
+      "size": 22024
+    },
+    "static/Montserrat-600-italic-latin-ext.woff2": {
+      "name": "static/Montserrat-600-italic-latin-ext.woff2",
+      "checksum": "9DF5F24278928433DF82AF2998CFB1054B856839BB9FF9A9D845F954D8E10138",
+      "size": 25904
+    },
+    "static/Montserrat-600-italic-latin.woff2": {
+      "name": "static/Montserrat-600-italic-latin.woff2",
+      "checksum": "33BEFDBBB24930584F5AC94EA3117ADCD56518F20AB1619D05DE83FFD1821D38",
+      "size": 31760
+    },
+    "static/Montserrat-600-italic-vietnamese.woff2": {
+      "name": "static/Montserrat-600-italic-vietnamese.woff2",
+      "checksum": "A48AFDB0DDE7CF596549DF3F194AD07822B6750B35595EF47FD6F353D4BD6677",
+      "size": 7736
+    },
+    "static/Montserrat-600-normal-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-600-normal-cyrillic-ext.woff2",
+      "checksum": "3FEF59469D688A1A0AB10FE37CFD274D272197D3D00E48A9422C57ADF7BADDD2",
+      "size": 23516
+    },
+    "static/Montserrat-600-normal-cyrillic.woff2": {
+      "name": "static/Montserrat-600-normal-cyrillic.woff2",
+      "checksum": "A8447CDEC51E85D9E93971A0D4A53BCF6085D70BF1D201662837D2FB953422C7",
+      "size": 21276
+    },
+    "static/Montserrat-600-normal-latin-ext.woff2": {
+      "name": "static/Montserrat-600-normal-latin-ext.woff2",
+      "checksum": "CFFE139366B3882387DDDBD10D59E7D9AA29345793FDBF51DDDE809CA6A0BEC2",
+      "size": 25036
+    },
+    "static/Montserrat-600-normal-latin.woff2": {
+      "name": "static/Montserrat-600-normal-latin.woff2",
+      "checksum": "AE919A7C9F25F0FD97FC18E398AE8E453FCAAE487E4A4CB4F896E7FECDE4A780",
+      "size": 30928
+    },
+    "static/Montserrat-600-normal-vietnamese.woff2": {
+      "name": "static/Montserrat-600-normal-vietnamese.woff2",
+      "checksum": "56544B89DE11E26AE80A5212B3387D693B1BFBAF68312E3CCC0F0B7A00382F5D",
+      "size": 7764
+    },
+    "static/Montserrat-700-italic-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-700-italic-cyrillic-ext.woff2",
+      "checksum": "15D402E48D0A4CC942B3C3451809FA55F59056ACE3A4730DE0BD9771CBDADCC5",
+      "size": 23600
+    },
+    "static/Montserrat-700-italic-cyrillic.woff2": {
+      "name": "static/Montserrat-700-italic-cyrillic.woff2",
+      "checksum": "8A7E993E31129B9CC38059C9959B2D99472F42336E241588649D627A96DB6108",
+      "size": 22024
+    },
+    "static/Montserrat-700-italic-latin-ext.woff2": {
+      "name": "static/Montserrat-700-italic-latin-ext.woff2",
+      "checksum": "9DF5F24278928433DF82AF2998CFB1054B856839BB9FF9A9D845F954D8E10138",
+      "size": 25904
+    },
+    "static/Montserrat-700-italic-latin.woff2": {
+      "name": "static/Montserrat-700-italic-latin.woff2",
+      "checksum": "33BEFDBBB24930584F5AC94EA3117ADCD56518F20AB1619D05DE83FFD1821D38",
+      "size": 31760
+    },
+    "static/Montserrat-700-italic-vietnamese.woff2": {
+      "name": "static/Montserrat-700-italic-vietnamese.woff2",
+      "checksum": "A48AFDB0DDE7CF596549DF3F194AD07822B6750B35595EF47FD6F353D4BD6677",
+      "size": 7736
+    },
+    "static/Montserrat-700-normal-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-700-normal-cyrillic-ext.woff2",
+      "checksum": "3FEF59469D688A1A0AB10FE37CFD274D272197D3D00E48A9422C57ADF7BADDD2",
+      "size": 23516
+    },
+    "static/Montserrat-700-normal-cyrillic.woff2": {
+      "name": "static/Montserrat-700-normal-cyrillic.woff2",
+      "checksum": "A8447CDEC51E85D9E93971A0D4A53BCF6085D70BF1D201662837D2FB953422C7",
+      "size": 21276
+    },
+    "static/Montserrat-700-normal-latin-ext.woff2": {
+      "name": "static/Montserrat-700-normal-latin-ext.woff2",
+      "checksum": "CFFE139366B3882387DDDBD10D59E7D9AA29345793FDBF51DDDE809CA6A0BEC2",
+      "size": 25036
+    },
+    "static/Montserrat-700-normal-latin.woff2": {
+      "name": "static/Montserrat-700-normal-latin.woff2",
+      "checksum": "AE919A7C9F25F0FD97FC18E398AE8E453FCAAE487E4A4CB4F896E7FECDE4A780",
+      "size": 30928
+    },
+    "static/Montserrat-700-normal-vietnamese.woff2": {
+      "name": "static/Montserrat-700-normal-vietnamese.woff2",
+      "checksum": "56544B89DE11E26AE80A5212B3387D693B1BFBAF68312E3CCC0F0B7A00382F5D",
+      "size": 7764
+    },
+    "static/Montserrat-800-italic-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-800-italic-cyrillic-ext.woff2",
+      "checksum": "15D402E48D0A4CC942B3C3451809FA55F59056ACE3A4730DE0BD9771CBDADCC5",
+      "size": 23600
+    },
+    "static/Montserrat-800-italic-cyrillic.woff2": {
+      "name": "static/Montserrat-800-italic-cyrillic.woff2",
+      "checksum": "8A7E993E31129B9CC38059C9959B2D99472F42336E241588649D627A96DB6108",
+      "size": 22024
+    },
+    "static/Montserrat-800-italic-latin-ext.woff2": {
+      "name": "static/Montserrat-800-italic-latin-ext.woff2",
+      "checksum": "9DF5F24278928433DF82AF2998CFB1054B856839BB9FF9A9D845F954D8E10138",
+      "size": 25904
+    },
+    "static/Montserrat-800-italic-latin.woff2": {
+      "name": "static/Montserrat-800-italic-latin.woff2",
+      "checksum": "33BEFDBBB24930584F5AC94EA3117ADCD56518F20AB1619D05DE83FFD1821D38",
+      "size": 31760
+    },
+    "static/Montserrat-800-italic-vietnamese.woff2": {
+      "name": "static/Montserrat-800-italic-vietnamese.woff2",
+      "checksum": "A48AFDB0DDE7CF596549DF3F194AD07822B6750B35595EF47FD6F353D4BD6677",
+      "size": 7736
+    },
+    "static/Montserrat-800-normal-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-800-normal-cyrillic-ext.woff2",
+      "checksum": "3FEF59469D688A1A0AB10FE37CFD274D272197D3D00E48A9422C57ADF7BADDD2",
+      "size": 23516
+    },
+    "static/Montserrat-800-normal-cyrillic.woff2": {
+      "name": "static/Montserrat-800-normal-cyrillic.woff2",
+      "checksum": "A8447CDEC51E85D9E93971A0D4A53BCF6085D70BF1D201662837D2FB953422C7",
+      "size": 21276
+    },
+    "static/Montserrat-800-normal-latin-ext.woff2": {
+      "name": "static/Montserrat-800-normal-latin-ext.woff2",
+      "checksum": "CFFE139366B3882387DDDBD10D59E7D9AA29345793FDBF51DDDE809CA6A0BEC2",
+      "size": 25036
+    },
+    "static/Montserrat-800-normal-latin.woff2": {
+      "name": "static/Montserrat-800-normal-latin.woff2",
+      "checksum": "AE919A7C9F25F0FD97FC18E398AE8E453FCAAE487E4A4CB4F896E7FECDE4A780",
+      "size": 30928
+    },
+    "static/Montserrat-800-normal-vietnamese.woff2": {
+      "name": "static/Montserrat-800-normal-vietnamese.woff2",
+      "checksum": "56544B89DE11E26AE80A5212B3387D693B1BFBAF68312E3CCC0F0B7A00382F5D",
+      "size": 7764
+    },
+    "static/Montserrat-900-italic-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-900-italic-cyrillic-ext.woff2",
+      "checksum": "15D402E48D0A4CC942B3C3451809FA55F59056ACE3A4730DE0BD9771CBDADCC5",
+      "size": 23600
+    },
+    "static/Montserrat-900-italic-cyrillic.woff2": {
+      "name": "static/Montserrat-900-italic-cyrillic.woff2",
+      "checksum": "8A7E993E31129B9CC38059C9959B2D99472F42336E241588649D627A96DB6108",
+      "size": 22024
+    },
+    "static/Montserrat-900-italic-latin-ext.woff2": {
+      "name": "static/Montserrat-900-italic-latin-ext.woff2",
+      "checksum": "9DF5F24278928433DF82AF2998CFB1054B856839BB9FF9A9D845F954D8E10138",
+      "size": 25904
+    },
+    "static/Montserrat-900-italic-latin.woff2": {
+      "name": "static/Montserrat-900-italic-latin.woff2",
+      "checksum": "33BEFDBBB24930584F5AC94EA3117ADCD56518F20AB1619D05DE83FFD1821D38",
+      "size": 31760
+    },
+    "static/Montserrat-900-italic-vietnamese.woff2": {
+      "name": "static/Montserrat-900-italic-vietnamese.woff2",
+      "checksum": "A48AFDB0DDE7CF596549DF3F194AD07822B6750B35595EF47FD6F353D4BD6677",
+      "size": 7736
+    },
+    "static/Montserrat-900-normal-cyrillic-ext.woff2": {
+      "name": "static/Montserrat-900-normal-cyrillic-ext.woff2",
+      "checksum": "3FEF59469D688A1A0AB10FE37CFD274D272197D3D00E48A9422C57ADF7BADDD2",
+      "size": 23516
+    },
+    "static/Montserrat-900-normal-cyrillic.woff2": {
+      "name": "static/Montserrat-900-normal-cyrillic.woff2",
+      "checksum": "A8447CDEC51E85D9E93971A0D4A53BCF6085D70BF1D201662837D2FB953422C7",
+      "size": 21276
+    },
+    "static/Montserrat-900-normal-latin-ext.woff2": {
+      "name": "static/Montserrat-900-normal-latin-ext.woff2",
+      "checksum": "CFFE139366B3882387DDDBD10D59E7D9AA29345793FDBF51DDDE809CA6A0BEC2",
+      "size": 25036
+    },
+    "static/Montserrat-900-normal-latin.woff2": {
+      "name": "static/Montserrat-900-normal-latin.woff2",
+      "checksum": "AE919A7C9F25F0FD97FC18E398AE8E453FCAAE487E4A4CB4F896E7FECDE4A780",
+      "size": 30928
+    },
+    "static/Montserrat-900-normal-vietnamese.woff2": {
+      "name": "static/Montserrat-900-normal-vietnamese.woff2",
+      "checksum": "56544B89DE11E26AE80A5212B3387D693B1BFBAF68312E3CCC0F0B7A00382F5D",
+      "size": 7764
+    }
+  },
+  "zip_url": "https://codeload.github.com/fifthtry/montserrat/zip/refs/heads/main",
+  "checksum": "599DA623BE12A121BAD487A7E30DC50F9F9BA8B4FF31A2CAAFB58CE15D7A883C"
+}
